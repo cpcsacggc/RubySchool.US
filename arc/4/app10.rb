@@ -1,0 +1,1 @@
+﻿50.times{|x| x+=1 and puts "x = #{x}, четное?: #{x.even?}"}
