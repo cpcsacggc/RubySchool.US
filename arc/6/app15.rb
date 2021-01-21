@@ -1,0 +1,1 @@
+﻿30.times { print rand(70..150).chr}
