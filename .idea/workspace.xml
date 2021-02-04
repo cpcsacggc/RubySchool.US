@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d2a9ca5-f163-4e8f-ae8b-6507fca4317a" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/MyApp1/method_missing.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/method_missing2.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/send_demo3.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/send_demo4.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/send_demo4_2.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/send_demo5.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/send_demo6.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApp1/define_method.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApp1/define_method2.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApp1/send_demo7.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,21 +45,20 @@
       <command value="irb" />
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.method_missing2">
-    <configuration name="irb" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+  <component name="RunManager" selected="Ruby.send_demo7">
+    <configuration name="define_method" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="RubySchool.US" />
-      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/MyApp1" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/../../../../Ruby25-x64/bin/irb" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--simple-prompt" />
-      <IRB_RUN_CONFIG NAME="CONSOLE_TYPE" VALUE="IRB" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/MyApp1/define_method.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <configuration name="method_missing" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -113,21 +106,6 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="send_demo5" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="RubySchool.US" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/MyApp1" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/MyApp1/send_demo5.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
     <configuration name="send_demo6" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="RubySchool.US" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -143,13 +121,28 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="send_demo7" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="RubySchool.US" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/MyApp1" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/MyApp1/send_demo7.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.send_demo7" />
+        <item itemvalue="Ruby.define_method" />
         <item itemvalue="Ruby.method_missing2" />
         <item itemvalue="Ruby.send_demo6" />
         <item itemvalue="Ruby.method_missing" />
-        <item itemvalue="Ruby.send_demo5" />
-        <item itemvalue="Ruby Console.irb" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612399887729</updated>
       <workItem from="1612399892831" duration="180000" />
-      <workItem from="1612400955069" duration="7519000" />
+      <workItem from="1612400955069" duration="10965000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1612401157403</created>
@@ -179,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612402240539</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1612409619317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612409619317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +206,9 @@
     <SUITE FILE_PATH="coverage/RubySchool_US@senddemo3.rcov" NAME="send_demo3 Coverage Results" MODIFIED="1612403027050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@send_demo4.rcov" NAME="send_demo4 Coverage Results" MODIFIED="1612403688016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@method_missing2.rcov" NAME="method_missing2 Coverage Results" MODIFIED="1612409503012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo7.rcov" NAME="send_demo7 Coverage Results" MODIFIED="1612412359803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@send_demo2.rcov" NAME="send_demo2 Coverage Results" MODIFIED="1612402503515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@define_method.rcov" NAME="define_method Coverage Results" MODIFIED="1612410408225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@irb.rcov" NAME="irb Coverage Results" MODIFIED="1612404301175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@send_demo1.rcov" NAME="send_demo1 Coverage Results" MODIFIED="1612402321256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@send_demo4_2.rcov" NAME="send_demo4_2 Coverage Results" MODIFIED="1612404174830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
