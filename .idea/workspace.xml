@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d2a9ca5-f163-4e8f-ae8b-6507fca4317a" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/MyApp1/filedemo.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/filedemo2.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/filedemo_string.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/income.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/split_method.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/split_method2.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/split_method3.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/split_method4.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/split_method5.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyApp1/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp1/notes.txt" afterDir="false" />
-    </list>
+    <list default="true" id="2d2a9ca5-f163-4e8f-ae8b-6507fca4317a" name="Default Changelist" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +12,7 @@
   </component>
   <component name="ProjectId" id="1nzja9nOWnHzWSp6VdUPGqqUHZS" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -190,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612399887729</updated>
       <workItem from="1612399892831" duration="180000" />
-      <workItem from="1612400955069" duration="19038000" />
+      <workItem from="1612400955069" duration="19557000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1612401157403</created>
@@ -220,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612417396820</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1612428673225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612428673225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
