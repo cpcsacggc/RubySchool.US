@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d2a9ca5-f163-4e8f-ae8b-6507fca4317a" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/MyApp1/define_method.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/define_method2.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyApp1/send_demo7.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MyApp1" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -139,9 +137,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Ruby.send_demo7" />
+        <item itemvalue="Ruby.send_demo6" />
         <item itemvalue="Ruby.define_method" />
         <item itemvalue="Ruby.method_missing2" />
-        <item itemvalue="Ruby.send_demo6" />
         <item itemvalue="Ruby.method_missing" />
       </list>
     </recent_temporary>
@@ -157,6 +155,7 @@
       <updated>1612399887729</updated>
       <workItem from="1612399892831" duration="180000" />
       <workItem from="1612400955069" duration="10965000" />
+      <workItem from="1612417771382" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1612401157403</created>
@@ -202,17 +201,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo6.rcov" NAME="send_demo6 Coverage Results" MODIFIED="1612409487238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
-    <SUITE FILE_PATH="coverage/RubySchool_US@senddemo3.rcov" NAME="send_demo3 Coverage Results" MODIFIED="1612403027050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
-    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo4.rcov" NAME="send_demo4 Coverage Results" MODIFIED="1612403688016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
-    <SUITE FILE_PATH="coverage/RubySchool_US@method_missing2.rcov" NAME="method_missing2 Coverage Results" MODIFIED="1612409503012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
-    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo7.rcov" NAME="send_demo7 Coverage Results" MODIFIED="1612412359803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
-    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo2.rcov" NAME="send_demo2 Coverage Results" MODIFIED="1612402503515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubySchool.US" />
-    <SUITE FILE_PATH="coverage/RubySchool_US@define_method.rcov" NAME="define_method Coverage Results" MODIFIED="1612410408225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
-    <SUITE FILE_PATH="coverage/RubySchool_US@irb.rcov" NAME="irb Coverage Results" MODIFIED="1612404301175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@send_demo1.rcov" NAME="send_demo1 Coverage Results" MODIFIED="1612402321256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubySchool.US" />
-    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo4_2.rcov" NAME="send_demo4_2 Coverage Results" MODIFIED="1612404174830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo4.rcov" NAME="send_demo4 Coverage Results" MODIFIED="1612403688016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@senddemo3.rcov" NAME="send_demo3 Coverage Results" MODIFIED="1612403027050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo6.rcov" NAME="send_demo6 Coverage Results" MODIFIED="1612409487238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@irb.rcov" NAME="irb Coverage Results" MODIFIED="1612404301175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@send_demo5.rcov" NAME="send_demo5 Coverage Results" MODIFIED="1612407887674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo2.rcov" NAME="send_demo2 Coverage Results" MODIFIED="1612402503515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@method_missing2.rcov" NAME="method_missing2 Coverage Results" MODIFIED="1612409503012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo4_2.rcov" NAME="send_demo4_2 Coverage Results" MODIFIED="1612404174830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@send_demo7.rcov" NAME="send_demo7 Coverage Results" MODIFIED="1612412359803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
     <SUITE FILE_PATH="coverage/RubySchool_US@method_missing.rcov" NAME="method_missing Coverage Results" MODIFIED="1612409092735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
+    <SUITE FILE_PATH="coverage/RubySchool_US@define_method.rcov" NAME="define_method Coverage Results" MODIFIED="1612410408225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyApp1" MODULE_NAME="RubySchool.US" />
   </component>
 </project>
