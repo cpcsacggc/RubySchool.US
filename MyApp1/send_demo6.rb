@@ -4,8 +4,8 @@ class Something
     hash.each do |key, value|
       send "#{key}=", value
       end
-    end
   end
+end
 s = Something.new :x => 1, :y => 2
 puts s.x
 puts s.y
