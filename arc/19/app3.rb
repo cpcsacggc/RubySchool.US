@@ -11,11 +11,11 @@ post '/' do
 	if @login == 'admin' && @password == '12345'
 		erb :welcome
 	else
-		@if_stop = "STOP!"
+		@if_stop = "Access Denied"
 		erb :index
 	end
 end
 
 get '/contacts' do
-	"Contacts: +7 000 000-00-00"
+"<p align='center'>Contacts: +7 000 000-00-00 </p>"
 end
