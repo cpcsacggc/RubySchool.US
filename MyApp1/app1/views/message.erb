@@ -1,3 +1,14 @@
-<h1><%= @title %></h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <%= erb :style %>
+</head>
+<body>
+<div align="center">
+  <%= erb :nav %>
+  <h1><%= @title %></h1>
 
-<p><%= @message %></p>
+  <p><%= @message %></p>
+</div>
+</body>
+</html>

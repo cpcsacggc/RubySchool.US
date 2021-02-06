@@ -1,48 +1,15 @@
 <!DOCTYPE html>
 <html>
+<%= erb :style %>
 <head>
   <meta charset="UTF-8">
 </head>
-<style>
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        background-color: #333;
-    }
 
-    li {
-        float: left;
-    }
-
-    li a {
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-    }
-
-    li a:hover:not(.active) {
-        background-color: #111;
-    }
-
-    .active {
-        background-color: #4CAF50;
-    }
-</style>
 </head>
 <body>
 
 <div align="center">
-  <ul>
-    <li><a href="/">home</a></li>
-    <li><a href="/contacts">contacts</a></li>
-    <li><a href="/faq">Faq</a></li>
-    <li><a href="/something">something</a></li>
-    <li style="float:right"><a class="active" href="#about">About</a></li>
-  </ul>
+  <%= erb :nav %>
   <h1>Hello and Welcome</h1>
   <p>You typed: <%= @login %></p>
   <p>Your password <%= @password %></p>
