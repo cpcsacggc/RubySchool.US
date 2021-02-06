@@ -1,6 +1,0 @@
-User: , phone: , date and time: .
-User: , phone: , date and time: .
-User: sergey zaikin, phone: 9168771889, date and time: 02/05/2021 2:00pm.
-User: Mark Zaikin, phone: 916-877-1889, date and time: 02/07/2021.
-User: Sergey Zaikin, phone: 916-877-1889, date and time: 02/09/2021.
-User: Sergey Zaikin, phone: 19168771889, date and time: 02/09/2021.

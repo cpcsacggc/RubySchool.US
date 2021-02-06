@@ -4,7 +4,7 @@ get '/' do
   erb :index
 end
 get '/result' do
-  @file = File.open("./public/users.txt","r")
+  @file = File.open("users.txt","r")
   erb :result
   # @file.close - с этим у меня не работает, перенёс в erb
 end
@@ -20,7 +20,7 @@ post '/' do
   @message = "Уважаемый #{@user_name}, мы ждём вас #{@date_time}"
 
   # запишем в файл то, что ввёл клиент
-  f = File.open './public/users.txt', 'a'
+  f = File.open 'users.txt', 'a'
   f.write "User: #{@user_name}, phone: #{@phone}, date and time: #{@date_time}.\n"
   f.close
 
@@ -36,7 +36,7 @@ post '/admin' do
 
   # проверим логин и пароль, и пускаем внутрь или нет:
   if @login == 'admin' && @password == '12345'
-    @file = File.open("./public/users.txt","r")
+    @file = File.open("./users.txt","r")
     erb :watch_result
     # @file.close - должно быть, но тогда не работает. указал в erb
   else
