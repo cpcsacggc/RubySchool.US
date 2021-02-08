@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/misc.xml
+/modules.xml
+/RubySchool_Lesson_22.iml
+/vcs.xml
+# Datasource local storage ignored files
+/../../../../:\Projects\RubySchool_Lesson_22\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
