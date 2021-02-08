@@ -1,5 +1,7 @@
-.idea/*
+.idea/
 .idea/RubySchool.US.iml
 .idea/RubySchool.US.iml
 MyApp1/barbershop/users.txt
 MyApp1/barbershop/users.txt
+.idea/RubySchool.US.iml
+.idea/modules.xml
